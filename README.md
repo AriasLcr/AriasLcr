@@ -1,4 +1,4 @@
-# Hello, I'm Gabriel Arias Lacruz 👋
+# Hello, I'm Gabriel Arias 👋
 
 ## 🎓 About Me
 I'm a second-year student at the Rochester Institute of Technology pursuing a degree in Computing & Information Technologies. I specialize in Full-Stack Development with a keen interest in creating efficient and user-friendly software solutions.
@@ -12,10 +12,6 @@ I'm a second-year student at the Rochester Institute of Technology pursuing a de
 
 ## 🌱 I’m currently learning
 - Advanced concepts in React and exploring React Native for mobile development.
-
-## 💼 Work Experience
-- **Grill Cook & Server**, Dining Commons - RIT
-  - Managed high-volume kitchen operations and enhanced customer dining experience by improving service quality and efficiency.
 
 ## 🚀 Projects
 - **UFund**: An integrated full-stack Java application for educational fundraising. I contributed extensively using Angular on the front-end and Node.js for back-end operations.
