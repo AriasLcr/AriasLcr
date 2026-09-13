@@ -2,7 +2,7 @@
 
 Backend-leaning full-stack engineer working on accessibility and payments. IT major at **RIT**, graduating December 2026.
 
-Currently a Software Engineer Intern at **[Ezre](https://ezre.app)**, building digital receipts that blind and low-vision customers can actually read. React Native and Ruby on Rails, with a lot of time in the Square and Clover POS APIs.
+Currently a Software Engineer Intern at **[Ezre](https://ezre.app)**, building digital receipts that blind and low-vision customers can actually read, and facilitating them to tip from their phones at restaurants. React Native and Ruby on Rails, with a lot of time in the Square and Clover POS APIs.
  
 Also the solutions architect on **Crafty Studio's Collaboratory**, a makerspace platform for an external client: Java, Spring Boot, and AWS, with RFID door access that checks membership and waivers in real time.
  
