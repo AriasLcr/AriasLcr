@@ -18,7 +18,7 @@ Previously full-stack at **G&S** on a clinical case management platform (Angular
 
 ## Cloud & Tooling
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,terraform,git,github,postman,figma)](https://skillicons.dev)
 
 ## Reach me
 
